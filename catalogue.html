@@ -1,0 +1,445 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <title>Catalogue | Univers Ceramic</title>
+
+    <meta
+        name="description"
+        content="Découvrez l'ensemble du catalogue Univers Ceramic : carrelages, panneaux décoratifs, portes et solutions de toiture."
+    >
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="favicon.ico?v=3">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+>
+
+<!-- CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+    <!-- PRELOADER -->
+<div id="preloader">
+
+    <div class="preloader-content">
+
+        <img
+            src="assets/images/logo/logo-univers-ceramic.png"
+            alt="Univers Ceramic"
+        >
+
+        <div class="loader"></div>
+
+    </div>
+
+</div>
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header id="header">
+
+        <div class="header-container">
+
+            <!-- LOGO -->
+            <a href="index.html#hero" class="logo">
+
+                <img
+                    src="assets/images/logo/logo-univers-ceramic.png"
+                    alt="Univers Ceramic"
+                >
+
+            </a>
+
+
+            <!-- NAVIGATION -->
+            <nav class="main-nav" id="main-nav">
+
+                <a href="index.html#hero" class="nav-link">
+                    Accueil
+                </a>
+
+                <a href="index.html#categories" class="nav-link">
+                    Catégories
+                </a>
+
+                <a href="catalogue.html" class="nav-link active">
+                    Catalogue
+                </a>
+
+                <a href="index.html#inspiration" class="nav-link">
+                    Inspiration
+                </a>
+
+                <a href="index.html#about" class="nav-link">
+                    À propos
+                </a>
+
+                <a href="index.html#contact" class="nav-link">
+                    Contact
+                </a>
+
+            </nav>
+
+
+            <!-- ACTIONS -->
+            <div class="header-actions">
+
+                <a
+                    href="index.html#contact"
+                    class="quote-button"
+                >
+                    Demander un devis
+                </a>
+
+                <a
+                    href="https://wa.me/221XXXXXXXXX"
+                    class="whatsapp-button"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Contacter Univers Ceramic sur WhatsApp"
+                >
+                    WhatsApp
+                </a>
+
+            </div>
+
+
+            <!-- MENU MOBILE -->
+            <button
+                class="menu-toggle"
+                id="menu-toggle"
+                aria-label="Ouvrir le menu"
+                aria-expanded="false"
+            >
+
+                <span></span>
+                <span></span>
+                <span></span>
+
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- =========================
+         CONTENU PRINCIPAL
+    ========================== -->
+
+    <main>
+
+ <!-- =========================
+     HERO CATALOGUE
+========================== -->
+
+<section class="catalogue-hero">
+
+    <!-- LOGO EN FILIGRANE -->
+
+    <div class="catalogue-watermark">
+
+        <img
+            src="assets/images/logo/logo-univers-ceramic.png"
+            alt=""
+            aria-hidden="true"
+        >
+
+    </div>
+
+
+    <!-- CONTENU -->
+
+    <div class="catalogue-hero-content">
+
+        <p class="catalogue-subtitle">
+            UNIVERS CERAMIC
+        </p>
+
+        <h1>
+            Donnez du caractère<br>
+            à vos espaces
+        </h1>
+
+        <p class="catalogue-description">
+
+            Découvrez notre sélection de produits pensés pour
+            sublimer vos projets, du résidentiel au professionnel.
+
+        </p>
+
+
+        <!-- CATÉGORIES -->
+
+        <div class="catalogue-categories">
+
+            <span>Carrelages</span>
+
+            <span>Panneaux &amp; Contreplaqués</span>
+
+            <span>Portes</span>
+
+            <span>Toitures</span>
+
+        </div>
+
+
+        <div class="catalogue-line"></div>
+
+
+        <p class="catalogue-message">
+            Qualité · Style · Solutions pour vos projets
+        </p>
+
+    </div>
+
+</section>
+
+
+        <!-- =========================
+             CATALOGUE PRODUITS
+        ========================== -->
+
+        <section id="products" class="products-section">
+
+            <div class="container">
+
+                <div class="section-header">
+
+                    <h2>
+                        Tous nos produits
+                    </h2>
+
+                    <p>
+                        Explorez notre catalogue et utilisez les filtres
+                        pour trouver les produits adaptés à votre projet.
+                    </p>
+
+                    <div class="products-count">
+
+                        <span id="product-count">
+                            0
+                        </span>
+
+                        produits
+
+                    </div>
+
+                </div>
+
+
+                <!-- FILTRES -->
+
+                <div class="products-filters">
+
+                    <button
+                        class="filter-btn active"
+                        data-category="all"
+                    >
+                        Tous
+                    </button>
+
+                    <button
+                        class="filter-btn"
+                        data-category="interieur"
+                    >
+                        Intérieur
+                    </button>
+
+                    <button
+                        class="filter-btn"
+                        data-category="exterieur"
+                    >
+                        Extérieur
+                    </button>
+
+                    <button
+                        class="filter-btn"
+                        data-category="panneaux-contreplaques"
+                    >
+                        Panneaux & Contreplaqués
+                    </button>
+
+                    <button
+                        class="filter-btn"
+                        data-category="portes"
+                    >
+                        Portes
+                    </button>
+
+                    <button
+                        class="filter-btn"
+                        data-category="toitures"
+                    >
+                        Toitures
+                    </button>
+
+                </div>
+
+
+                <!-- PRODUITS -->
+
+                <div id="products-container"></div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+   <footer id="footer">
+
+    <div class="footer-container">
+
+        <div class="footer-brand">
+
+            <img
+                src="assets/images/logo/logo-univers-ceramic.png"
+                alt="Univers Ceramic"
+            >
+
+            <p>
+                Univers Ceramic vous accompagne dans vos projets
+                avec une sélection de carrelages, panneaux,
+                portes et solutions de toiture.
+            </p>
+
+        </div>
+
+        <div class="footer-links">
+
+            <h4>Navigation</h4>
+
+            <a href="#hero">Accueil</a>
+            <a href="#categories">Catégories</a>
+            <a href="catalogue.html">Catalogue</a>
+            <a href="#about">À propos</a>
+            <a href="#contact">Contact</a>
+
+        </div>
+
+        <div class="footer-contact">
+
+            <h4>Coordonnées</h4>
+
+            <p>Dakar, Sénégal</p>
+            <p>+221 XX XXX XX XX</p>
+            <p>contact@universceramic.sn</p>
+
+            <div class="footer-social">
+
+    <h4>Suivez-nous</h4>
+
+    <div class="social-icons">
+
+        <a
+            href="#"
+            aria-label="Facebook"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-facebook-f"></i>
+        </a>
+
+        <a
+            href="#"
+            aria-label="Instagram"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-instagram"></i>
+        </a>
+
+        <a
+            href="#"
+            aria-label="TikTok"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-tiktok"></i>
+        </a>
+
+        <a
+            href="https://wa.me/221XXXXXXXXX"
+            aria-label="WhatsApp"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-whatsapp"></i>
+        </a>
+
+    </div>
+
+</div>
+
+
+            
+            
+
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+
+        © 2026 Univers Ceramic — Tous droits réservés.
+
+    </div>
+
+</footer>
+
+    <!-- WhatsApp flottant -->
+<a
+    href="https://wa.me/221XXXXXXXXX"
+    class="floating-whatsapp"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Contacter Univers Ceramic sur WhatsApp"
+>
+    <i class="fab fa-whatsapp"></i>
+</a>
+
+<!-- Retour en haut -->
+<button
+    id="backToTop"
+    aria-label="Retour en haut"
+>
+    <i class="fas fa-arrow-up"></i>
+</button>
+
+
+
+    <!-- =========================
+         JAVASCRIPT
+    ========================== -->
+
+    <script src="assets/js/main.js"></script>
+
+    <script src="assets/js/products.js"></script>
+
+</body>
+
+</html>
+

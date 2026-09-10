@@ -1,0 +1,13 @@
+# Backend Node.js - ne pas publier
+backend/node_modules/
+backend/.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+# Sauvegarde n8n locale
+backup-workflows

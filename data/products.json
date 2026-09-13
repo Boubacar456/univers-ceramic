@@ -854,7 +854,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/61.JPG",
+  "image": "assets/images/products/61.jpg",
   "featured": false,
   "description": "Toilette moderne en céramique blanche avec réservoir rectangulaire et bouton double-flush."
 },
@@ -868,7 +868,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/62.JPG",
+  "image": "assets/images/products/62.jpg",
   "featured": false,
   "description": "Évier en acier inoxydable à double bac avec robinet flexible et égouttoir."
 },
@@ -882,7 +882,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/63.JPG",
+  "image": "assets/images/products/63.jpg",
   "featured": true,
   "description": "Ensemble sanitaire contemporain associant une toilette noire et un lavabo assorti pour une salle de bain élégante."
 },
@@ -896,7 +896,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/64.JPG",
+  "image": "assets/images/products/64.jpg",
   "featured": false,
   "description": "Ensemble sanitaire blanc au design épuré avec toilette et lavabo mural carré."
 },
@@ -910,7 +910,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/65.JPG",
+  "image": "assets/images/products/65.jpg",
   "featured": false,
   "description": "Ensemble sanitaire classique composé d'une toilette blanche et d'un lavabo sur pied assorti."
 },
@@ -924,7 +924,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/66.JPG",
+  "image": "assets/images/products/66.jpg",
   "featured": true,
   "description": "Ensemble lavabo sur pied et toilette avec finition marbre gris, accompagné d'un miroir LED."
 },
@@ -938,7 +938,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/67.JPG",
+  "image": "assets/images/products/67.jpg",
   "featured": true,
   "description": "WC suspendu noir avec bâti-support et plaque de commande double-flush pour une salle de bain contemporaine."
 },
@@ -952,7 +952,7 @@
   "badge": "Coup de cœur",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/68.JPG",
+  "image": "assets/images/products/68.jpg",
   "featured": true,
   "description": "Vasque ronde blanche installée sur un meuble effet marbre avec miroir circulaire rétroéclairé LED."
 },
@@ -966,7 +966,7 @@
   "badge": "Nouveauté",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/69.JPG",
+  "image": "assets/images/products/69.jpg",
   "featured": true,
   "description": "Cabine de douche d'angle avec verre strié et cadre noir pour une salle de bain moderne."
 },
@@ -980,7 +980,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/70.JPG",
+  "image": "assets/images/products/70.jpg",
   "featured": false,
   "description": "Vasque rouge marbrée en verre montée sur un support chromé pour une décoration originale."
 },
@@ -994,7 +994,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/71.JPG",
+  "image": "assets/images/products/71.jpg",
   "featured": true,
   "description": "Lavabo rectangulaire intégré sur meuble effet marbre noir avec miroir rétroéclairé."
 },
@@ -1008,7 +1008,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/72.JPG",
+  "image": "assets/images/products/72.jpg",
   "featured": false,
   "description": "Ensemble d'accessoires sanitaires noirs mats comprenant porte-serviette, porte-savon, porte-papier et étagère en verre."
 },
@@ -1022,7 +1022,7 @@
   "badge": "Nouveauté",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/73.JPG",
+  "image": "assets/images/products/73.jpg",
   "featured": false,
   "description": "Cabine de douche en verre strié avec porte coulissante, modèle ITM-LY-010."
 },
@@ -1036,7 +1036,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/74.JPG",
+  "image": "assets/images/products/74.jpg",
   "featured": true,
   "description": "Lavabo mural Snow en céramique blanche avec robinetterie dorée pour une finition élégante."
 },
@@ -1050,7 +1050,7 @@
   "badge": "Nouveauté",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/75.JPG",
+  "image": "assets/images/products/75.jpg",
   "featured": true,
   "description": "Panneau de douche digital avec thermostat intelligent, commande tactile et affichage LED."
 },
@@ -1064,7 +1064,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/76.JPG",
+  "image": "assets/images/products/76.jpg",
   "featured": false,
   "description": "Vasque rectangulaire intégrée en marbre gris avec robinet mural noir."
 },
@@ -1078,7 +1078,7 @@
   "badge": "Premium",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/77.JPG",
+  "image": "assets/images/products/77.jpg",
   "featured": true,
   "description": "Meuble lavabo suspendu haut de gamme avec vasque intégrée et miroir LED ovale."
 },
@@ -1092,7 +1092,7 @@
   "badge": "Nouveauté",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/78.JPG",
+  "image": "assets/images/products/78.jpg",
   "featured": true,
   "description": "Système de douche intelligent avec thermostat, affichage LED et fonctions hydroélectriques."
 },
@@ -1107,7 +1107,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/80.JPG",
+  "image": "assets/images/products/80.jpg",
   "featured": false,
   "description": "Revêtement de sol en bois clair utilisé pour un escalier contemporain avec garde-corps en verre."
 },
@@ -1121,7 +1121,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/81.JPG",
+  "image": "assets/images/products/81.jpg",
   "featured": false,
   "description": "Revêtement de sol effet bois clair à finition lisse pour une cuisine moderne et chaleureuse."
 },
@@ -1135,7 +1135,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/82.JPG",
+  "image": "assets/images/products/82.jpg",
   "featured": false,
   "description": "Revêtement de sol effet bois naturel associé à des contremarches blanches pour un escalier contemporain."
 },
@@ -1149,7 +1149,7 @@
   "badge": "Disponible",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/83.JPG",
+  "image": "assets/images/products/83.jpg",
   "featured": true,
   "description": "Carrelage céramique imitation bois Tiv Origin Umber au format 30×60 cm, avec une finition chaleureuse effet bois brun."
 },
@@ -1163,7 +1163,7 @@
   "badge": "Nouveauté",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/84.JPG",
+  "image": "assets/images/products/84.jpg",
   "featured": true,
   "description": "Carrelage céramique imitation bois Albie Miel au format 30×150 cm pour créer un sol chaleureux et élégant."
 },
@@ -1177,7 +1177,7 @@
   "badge": "Coup de cœur",
   "price": null,
   "currency": "FCFA",
-  "image": "assets/images/products/85.JPG",
+  "image": "assets/images/products/85.jpg",
   "featured": true,
   "description": "Revêtement de sol effet parquet bois clair pour un salon moderne, lumineux et chaleureux."
 }

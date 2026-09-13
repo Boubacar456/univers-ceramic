@@ -15,17 +15,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Produits affichés sur la page d'accueil
     const featuredProductIds = [
-    4,   // Laurent Black
-    10,  // Volcano Rush
-    7,   // Gottina Grey
-    57,  // CLASSIC CREMA
-    26,  // Forest Wood Series
-    42,  // EMPERA GRIS
-    17,  // Spider Web Gold
-    58   // PLD2029
+    14, // Empera Gris
+    16, // Forest Wood Series
+    34, // Laurrent Black
+    44, // Spider Web Gold
+    49, // Volcano Rush
+    53, // Classic Crema
+    60, // Porte Moderne Gris Anthracite
+    58, // Tuile Toppana Superroof
+    68, // Lavabo Circulaire avec Miroir LED
+    84  // Albie Miel
 ];
-
-    // Détection de la page
+    
+// Détection de la page
     const isCataloguePage =
         window.location.pathname.toLowerCase().includes("catalogue.html");
 
@@ -439,7 +441,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
             "portes": "Portes",
 
-            "toitures": "Toitures"
+            "toitures": "Toitures",
+            
+            "sanitaires": "Sanitaires",
+
+              "parquets": "Parquets"
+
 
         };
 
